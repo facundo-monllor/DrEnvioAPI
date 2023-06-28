@@ -40,14 +40,14 @@ Ejemplo de respuesta:
 {
 "id": 1,
 "nombre": "Zapatillas Nike Air Max",
-"precio": 99.99,
-"stock": 5
+"precio_base": 99.99,
+"existencia": 5
 },
 {
 "id": 2,
 "nombre": "Zapatillas Adidas Superstar",
-"precio": 89.99,
-"stock": 10
+"precio_base": 89.99,
+"existencia": 10
 },
 ...
 ]
