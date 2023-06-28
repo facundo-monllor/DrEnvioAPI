@@ -6,7 +6,7 @@
 
 # Introducción
 
-Esta API fue creada utilizando Express y tiene como objetivo proporcionar funcionalidad para una tienda de zapatillas. El objetivo principal es implementar dos rutas públicas que permitan obtener información sobre los productos disponibles y los precios especiales para clientes.
+Esta API fue creada utilizando Express con NodeJs y tiene como objetivo proporcionar funcionalidad para una tienda de zapatillas. El objetivo principal es implementar dos rutas públicas que permitan obtener información sobre los productos disponibles y los precios especiales para clientes.
 
 ## Instalación
 
